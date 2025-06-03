@@ -1,8 +1,8 @@
 import React from "react";
-import Header from "../components/Header";
-import HeroSection from "../components/HeroSection";
-import ContractUpload from "../components/ContractUpload";
-import AIAssistant from "../components/AIAssistant";
+import Header from "@/components/Header";
+import HeroSection from "@/components/HeroSection";
+import ContractUpload from "@/components/ContractUpload";
+import AIAssistant from "@/components/AIAssistant";
 
 const Index = () => {
   return (
